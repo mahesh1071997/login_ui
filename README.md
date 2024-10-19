@@ -27,4 +27,4 @@ Make sure you have Flutter SDK and its dependencies installed. You can find the 
 Open a terminal and execute the following command:
 
 ```bash
-git clone [https://github.com/your-username/flutter-beautiful-ui.git](https://github.com/mahesh1071997/login_ui.git)
+git clone https://github.com/mahesh1071997/login_ui.git

@@ -4,8 +4,8 @@ This is a Flutter application showcasing a beautifully designed Login and Initia
 
 ## 📱 Screenshots
 
-![Login Page](screenshots/login_page.png)
-![Initial Page](screenshots/initial_page.png)
+![Login Page](login.png)
+![Initial Page](init_view.png)
 
 ## 🚀 Features
 
